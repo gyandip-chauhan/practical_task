@@ -1,0 +1,2 @@
+module Api::DistancesHelper
+end
